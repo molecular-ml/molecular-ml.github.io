@@ -94,6 +94,8 @@ nav:
     href: /repositories
   - label: Contact
     href: /contact
+  - label: Projects
+    href: /projects
 socials:
   email: lab@example.com
   github: https://github.com/example-lab
