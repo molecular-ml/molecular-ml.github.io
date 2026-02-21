@@ -12,12 +12,12 @@ siteUrl: https://molecular-ml.github.io/
 imageShape: oval
 topBar:
   enabled: true
-  text: Department of Computer Science, University of Technology
+  text: Department of Industrial Engineering and Management Systems, University of Central Florida
   links:
     - label: Apply Now
       href: /positions
     - label: Campus Map
-      href: https://university.edu/map
+      href: https://ucf.edu/map
       external: true
 hero:
   type: pattern
