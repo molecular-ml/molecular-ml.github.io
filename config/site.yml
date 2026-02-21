@@ -2,7 +2,7 @@
 # Edit this file to customize your academic website
 
 # "personal" = individual academic site, "lab" = research group site
-siteMode: 'personal'
+siteMode: 'lab'
 
 # Language and direction
 lang: 'en' # BCP 47 language tag (e.g. "en", "fa", "ar", "zh")
