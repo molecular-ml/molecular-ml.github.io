@@ -84,8 +84,6 @@ nav:
     href: /people
   - label: Publications
     href: /publications
-  - label: Projects
-    href: /projects
   - label: News
     href: /news
   - label: Blog
@@ -126,7 +124,7 @@ newsletter:
   heading: Stay Updated
   text: Subscribe to get notified about new publications and news.
 seo:
-  keywords: "language, learning, multilingual, natural, robustness, nlp, multimodal, 2024, models, vision, computer, safety, research, training, benchmark, fairness, processing, natural language, language processing, language models, multilingual nlp, text generation, computer vision, vision multimodal, multimodal learning, vision-language models, image understanding, multimodal reasoning, ai safety, safety robustness"
+  keywords: language, learning, natural, multimodal, multilingual, models, vision, robustness, nlp, computer, safety, 2024, processing, computer vision, multimodal learning, ai safety, research, training, benchmark, fairness, reinforcement, natural language, language processing, language models, multilingual nlp, text generation, vision multimodal, vision-language models, image understanding, multimodal reasoning
   googleSiteVerification: ''
   bingSiteVerification: ''
 footer:
