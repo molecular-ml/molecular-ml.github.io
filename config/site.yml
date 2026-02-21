@@ -180,7 +180,7 @@ seo:
 adminPath: 'admin'
 
 adminUsers:
-  - 'janesmith'
+  - 'molecular-ml'
 
 # GDPR cookie consent banner
 cookieConsent: false
