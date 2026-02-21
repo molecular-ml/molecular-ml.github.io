@@ -3,7 +3,7 @@ name: Ozlem Garibay
 role: pi
 title: Assistant Professor
 photo: /src/assets/images/site/og-image.svg
-email: ''
+email: ozlem@ucf.edu
 socials: null
 researchInterests: []
 startDate: ''
